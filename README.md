@@ -27,17 +27,19 @@ Hi, I’m **[@Ismail Hossain](https://github.com/ismaileub)** – a passionate F
 - 💬 Ask me about **Full-Stack Development (React, Next.js, Node.js, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore my Portfolio: **[Ismail Portfolio](https://ismail-portfolio-beta.vercel.app)**
 - 📄 Download my Resume: **[Resume PDF](https://drive.google.com/uc?export=download&id=YOUR_RESUME_ID)**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/ismail-eub)**
 - 📫 Feel free to reach out via **[Email](mailto:ismail301515@gmail.com)**
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://discord.gg/ismaileub" target="_blank">
+  <a href="https://discord.gg/ismaileub" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+  <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
   </a>
 </p>
 
