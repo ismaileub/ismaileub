@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **[@IsmailHossain](https://github.com/ismaileub)** – a passionate Full-Stack Web Developer.
+Hi, I’m **[@Ismail Hossain](https://github.com/ismaileub)** – a passionate Full-Stack Web Developer.
 
 - 🖥️ Currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL and Prisma** for backend development.
