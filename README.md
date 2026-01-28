@@ -36,7 +36,7 @@ Hi, I’m **[@IsmailHossain](https://github.com/ismaileub)** – a passionate Fu
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/ismaileub" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
