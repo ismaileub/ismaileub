@@ -38,9 +38,10 @@ Hi, I’m **[@Ismail Hossain](https://github.com/ismaileub)** – a passionate F
   <a href="https://discord.gg/ismaileub" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
-  <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
-  </a>
+  <a href="https://wa.me/8801866468997" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+</a>
+
 </p>
 
 ---
