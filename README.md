@@ -21,11 +21,11 @@
 
 Hi, I’m **[@IsmailHossain](https://github.com/ismaileub)** – a passionate Full-Stack Web Developer.
 
-- 🖥️ Currently working on **React.js, Next.js, TypeScript, and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
-- 🛠️ Currently learning **React Native, GraphQL, Docker, and AWS** to expand my skill set.
+- 🖥️ Currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL and Prisma** for backend development.
+- 🛠️ Currently learning **GraphQL, Docker and AWS** to expand my skill set.
 - 💬 Ask me about **Full-Stack Development (React, Next.js, Node.js, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore my Portfolio: **[Ismail Portfolio](https://ismail-portfolio-beta.vercel.app/)**
+- 🌐 Explore my Portfolio: **[Ismail Portfolio](https://ismail-portfolio-beta.vercel.app)**
 - 📄 Download my Resume: **[Resume PDF](https://drive.google.com/uc?export=download&id=YOUR_RESUME_ID)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/ismail-eub)**
 - 📫 Feel free to reach out via **[Email](mailto:ismail301515@gmail.com)**
