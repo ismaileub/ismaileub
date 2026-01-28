@@ -109,10 +109,8 @@ Focused on writing clean code, building maintainable systems and delivering real
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaileub&show_icons=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileub&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaileub&show_icons=true&hide_border=true" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileub&layout=compact&hide_border=true" style="display:inline-block;" />
 </p>
 
 <!-- <p align="center">
