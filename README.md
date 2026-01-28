@@ -95,11 +95,11 @@ Focused on writing clean code, building maintainable systems and delivering real
 
 ---
 
-## 🧠 Coding Platforms
+## 🧠 Coding Profile
 
-- [Codeforces](https://codeforces.com/profile/your_username)
-- [CodeChef](https://www.codechef.com/users/your_username)
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/your_id)
+- [Codeforces](https://codeforces.com/profile/ismail-eub)
+- [CodeChef](https://www.codechef.com/users/ismaileub)
+- [Beecrowd](https://judge.beecrowd.com/en/profile/907824)
 
 ---
 
