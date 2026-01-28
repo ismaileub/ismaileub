@@ -39,7 +39,7 @@ Hi, I’m **[@Ismail Hossain](https://github.com/ismaileub)** – a passionate F
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
   <a href="https://wa.me/8801866468997" target="_blank" rel="noopener noreferrer">
-  <img src="./whatspp.png" height="38" style="border-radius: 15%;/>
+  <img src="./whatsapp.png" height="38" style="border-radius: 15%;" />
 </a>
 
 </p>
@@ -57,7 +57,7 @@ Focused on writing clean code, building maintainable systems and delivering real
 
 ## 🧰 Tech Stack
 
-### 🚀 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,ts,redux,tailwind" />
