@@ -39,7 +39,7 @@ Hi, I’m **[@Ismail Hossain](https://github.com/ismaileub)** – a passionate F
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
   <a href="https://wa.me/8801866468997" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+  <img src="./whatspp.png" height="38" style="border-radius: 15%;/>
 </a>
 
 </p>
