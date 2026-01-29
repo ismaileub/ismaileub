@@ -59,8 +59,6 @@ Focused on writing clean code, building maintainable systems and delivering real
 
 ### Frontend
 
-### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,redux,tailwind" />
 </p>
